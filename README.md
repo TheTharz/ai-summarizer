@@ -23,4 +23,4 @@ The Web Page Content Summarizer requires a Rapid API key for text summarization.
 
 ## Acknowledgments
 
-This project was inspired by the tutorial from JavaScript Mastery. Special thanks to them for providing the guidance and resources to build this web page content summarizer.
+This project was inspired by the tutorial from JavaScript Mastery. Special thanks to them for providing the guidance and resources to build this web page content summarizer.Thank you all.
