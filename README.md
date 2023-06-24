@@ -17,9 +17,9 @@ The Web Page Content Summarizer requires a Rapid API key for text summarization.
 
 1. Create a Rapid API account and obtain an API key. You can sign up for an account [here](https://rapidapi.com/).
 
-2. Open the project files and locate the `.env` file.
+2. Open the project files and create the `.env` file.
 
-3. Replace the placeholder value for the `REACT_APP_RAPIDAPI_KEY` variable with your Rapid API key.
+3. Assign the `VITE_RAPID_API_KEY` variable with your Rapid API key.
 
 ## Acknowledgments
 
